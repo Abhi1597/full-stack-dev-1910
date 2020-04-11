@@ -1,2 +1,2 @@
-# full-stack-dev-1910
-Full Stack Web Developer Program (21st Oct, 2019)
+# full-stack-dev-coure
+Full Stack Web Developer Program (MERN)
