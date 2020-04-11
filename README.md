@@ -1,2 +1,2 @@
 # full-stack-dev-1910
-MERN Full Stack Developer Course
+Full Stack Web Developer Program (21st Oct, 2019)
